@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BiteMate" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+         <item name="colorPrimary">@color/Primary</item>
+    </style>
+
+    <style name="Theme.BiteMate" parent="Base.Theme.BiteMate" />
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886851173411",
+    "project_id": "bitemate-77d86",
+    "storage_bucket": "bitemate-77d86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886851173411:android:09b427f038cbec82d2c596",
+        "android_client_info": {
+          "package_name": "com.example.bitemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo7leabaBvwIct-GtW-GpFrSe4g2_aqNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
