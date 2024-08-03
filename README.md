@@ -1,6 +1,6 @@
-# Bie Mate
+# Bite Mate
 
-Bie Mate is an innovative Android application that revolutionizes the way you interact with food choices. Through intuitive swiping gestures and detailed information, Bie Mate enhances your dining experience, making it fun and engaging to discover new food items.
+Bite Mate is an innovative Android application that revolutionizes the way you interact with food choices. Through intuitive swiping gestures and detailed information, Bie Mate enhances your dining experience, making it fun and engaging to discover new food items.
 
 ## Features
 
